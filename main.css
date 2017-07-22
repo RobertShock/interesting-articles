@@ -1,0 +1,78 @@
+body {
+	background-color: lightgray;
+}
+
+.zombies {
+	background-color: lightblue;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	color: black; 
+	line-height: 20px;
+	padding: 10px;
+	border: solid;
+	border-radius: 10px;
+}
+
+.cheese {
+	background-color: pink;
+	font-family: 'Bellefair', serif;
+	font-size: 1.5em;
+	color: purple;
+	line-height: 25px;
+	padding: 5px;
+	border: dotted;
+	border-radius: 20px;
+}
+
+.sam {
+	background-color: yellow;
+	font-family: 'Zilla Slab', serif;
+	font-size: 2em;
+	color: teal;
+	line-height: 30px;
+	padding: 15px;
+	border: dotted thick teal;
+	border-radius: 30px;
+}
+
+.pirate {
+	background-color: tan;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.75em;
+	color: green;
+	line-height: 35px;
+	padding: 20px;
+	border: solid thin green;
+	border-radius: 40px;
+}
+
+.chuck {
+	background-color: red;
+	font-family: 'Slabo 27px', serif;
+	font-size: 3em;
+	color: white;line-height: 40px;
+	padding:25px;
+	border: dashed thick blue;
+	border-radius: 35px;
+}
+
+section {
+	text-align: center;
+}
+
+
+img {
+	max-width: 500px;
+}
+
+img {
+	align-items: center;
+}
+
+table, th, td {
+	border: 2px solid yellow;
+}
+
+footer {
+	text-align: left;
+}
